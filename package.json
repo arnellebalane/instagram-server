@@ -1,0 +1,12 @@
+{
+  "name": "instagram-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Arnelle Balane <arnellebalane@gmail.com> (https://arnellebalane.com/)",
+  "license": "MIT"
+}
