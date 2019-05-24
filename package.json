@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "Arnelle Balane <arnellebalane@gmail.com> (https://arnellebalane.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "2.5.0",
+    "graphql": "14.3.1"
+  }
 }
